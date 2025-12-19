@@ -91,7 +91,7 @@ Prettier can be run [in your editor](https://prettier.io/docs/editors) on-save, 
 
 ---
 
-## Badge
+## Badge.
 
 Show the world you're using _Prettier_ → [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
